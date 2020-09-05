@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/Github-user-seacher/static/js/main.2fdfeb09.chunk.js",
-    "main.js.map": "/Github-user-seacher/static/js/main.2fdfeb09.chunk.js.map",
-    "runtime-main.js": "/Github-user-seacher/static/js/runtime-main.8093e51d.js",
-    "runtime-main.js.map": "/Github-user-seacher/static/js/runtime-main.8093e51d.js.map",
-    "static/js/2.e9dc4753.chunk.js": "/Github-user-seacher/static/js/2.e9dc4753.chunk.js",
-    "static/js/2.e9dc4753.chunk.js.map": "/Github-user-seacher/static/js/2.e9dc4753.chunk.js.map",
-    "index.html": "/Github-user-seacher/index.html",
-    "precache-manifest.3421ffbb8efe8cb2f29153debcb139dd.js": "/Github-user-seacher/precache-manifest.3421ffbb8efe8cb2f29153debcb139dd.js",
-    "service-worker.js": "/Github-user-seacher/service-worker.js",
-    "static/js/2.e9dc4753.chunk.js.LICENSE.txt": "/Github-user-seacher/static/js/2.e9dc4753.chunk.js.LICENSE.txt"
+    "main.js": "/React-Github-user-seacher/static/js/main.2fdfeb09.chunk.js",
+    "main.js.map": "/React-Github-user-seacher/static/js/main.2fdfeb09.chunk.js.map",
+    "runtime-main.js": "/React-Github-user-seacher/static/js/runtime-main.d436b7f0.js",
+    "runtime-main.js.map": "/React-Github-user-seacher/static/js/runtime-main.d436b7f0.js.map",
+    "static/js/2.e9dc4753.chunk.js": "/React-Github-user-seacher/static/js/2.e9dc4753.chunk.js",
+    "static/js/2.e9dc4753.chunk.js.map": "/React-Github-user-seacher/static/js/2.e9dc4753.chunk.js.map",
+    "index.html": "/React-Github-user-seacher/index.html",
+    "precache-manifest.c423ea2b9f64b25b05b24bb6da9a2fc7.js": "/React-Github-user-seacher/precache-manifest.c423ea2b9f64b25b05b24bb6da9a2fc7.js",
+    "service-worker.js": "/React-Github-user-seacher/service-worker.js",
+    "static/js/2.e9dc4753.chunk.js.LICENSE.txt": "/React-Github-user-seacher/static/js/2.e9dc4753.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8093e51d.js",
+    "static/js/runtime-main.d436b7f0.js",
     "static/js/2.e9dc4753.chunk.js",
     "static/js/main.2fdfeb09.chunk.js"
   ]
